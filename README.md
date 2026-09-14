@@ -28,34 +28,35 @@ Os principais assuntos estudados foram:
 
 ---
 
+
 ## Fontes utilizadas
 
-Usei várias fontes no NotebookLM. Algumas das principais foram:
+Usei diferentes tipos de fontes no NotebookLM, incluindo vídeos e documentações oficiais.
 
-### ServiceNow — Tables and Data Models
+### 1. What is ServiceNow? Explained Simply for Beginners
+https://www.youtube.com/watch?v=yf6BOswaex4
+
+Usei esse vídeo para entender de forma mais simples o que é ServiceNow, para que serve e como a plataforma é utilizada nas empresas.
+
+### 2. What Is ServiceNow? How to Explain It Clearly
+https://www.youtube.com/watch?v=dJ19M_VGnvE
+
+Esse vídeo ajudou a complementar a visão geral da plataforma e entender como explicar ServiceNow de uma forma mais clara.
+
+### 3. ServiceNow — Tables and Data Models
 https://www.servicenow.com/docs/r/pt-BR/application-development/tables-and-data-models.html
 
 Usei essa documentação para entender melhor como funcionam tabelas, registros e dados dentro do ServiceNow.
 
-### ServiceNow — Incident Management
+### 4. ServiceNow — Incident Management
 https://www.servicenow.com/docs/r/pt-BR/it-service-management/incident-management/c_IncidentManagement.html
 
 Essa fonte me ajudou a entender melhor o gerenciamento de incidentes.
 
-### ServiceNow — Problem Management
-https://www.servicenow.com/docs/r/pt-BR/it-service-management/problem-management/exploring-problem-management.html
-
-Usei para entender a diferença entre incidente e problema.
-
-### ServiceNow — Flow Designer
+### 5. ServiceNow — Flow Designer
 https://www.servicenow.com/docs/r/pt-BR/yokohama/application-development/flow-designer.html
 
-Usei para estudar automações dentro da plataforma.
-
-### ServiceNow Developers — New to ServiceNow
-https://developer.servicenow.com/print_page.do?category=learning-plans&identifier=new_to_servicenow&module=learning+plan&release=yokohama
-
-Usei como material introdutório para entender melhor a plataforma.
+Usei para estudar automações e entender melhor como funcionam os fluxos dentro da plataforma.
 
 ---
 
