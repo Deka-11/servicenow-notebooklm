@@ -122,6 +122,8 @@ Outro ponto importante foi pedir para o NotebookLM usar somente as fontes adicio
 
 Além das perguntas, também utilizei outros recursos do NotebookLM.
 
+
+
 ### Mapa mental
 
 Criei um mapa mental com alguns dos principais assuntos de ServiceNow.
@@ -150,17 +152,16 @@ No total, foram adicionadas **20 fontes** no NotebookLM, entre vídeos e documen
 
 ## Imagens do projeto
 
-### Mapa mental
+## Imagens do projeto
 
-![Mapa mental ServiceNow](images/mapa-servicenow.png)
+### Mapa mental
+![Mapa mental ServiceNow](Screenshot%202026-09-14%20194818.png)
 
 ### ServiceNow Blueprint
-
-![ServiceNow Blueprint](images/servicenow-blueprint.png)
+![ServiceNow Blueprint](Screenshot%202026-09-14%20194834.png)
 
 ### Fontes no NotebookLM
-
-![Fontes utilizadas no NotebookLM](images/fontes-notebooklm.png)
+![Fontes utilizadas no NotebookLM](Screenshot%202026-09-14%20194848.png)
 
 ---
 
