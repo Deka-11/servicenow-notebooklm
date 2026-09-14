@@ -1,4 +1,3 @@
-
 # Segundo Cérebro de ServiceNow com NotebookLM
 
 ## Sobre o projeto
@@ -148,7 +147,6 @@ No total, foram adicionadas **20 fontes** no NotebookLM, entre vídeos e documen
 
 ---
 
-## Imagens do projeto
 
 ## Imagens do projeto
 
